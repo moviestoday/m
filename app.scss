@@ -1,0 +1,22 @@
+body,html{
+  height: 100%;
+  overflow: hidden;
+  background-color: #1c1c1d;
+}
+
+#logo {
+  width: 0px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+#menu_bg{
+  position: absolute;
+  overflow: hidden;
+  opacity: 0;
+}
+
+#menu_bg_img{
+  position: absolute;
+}
